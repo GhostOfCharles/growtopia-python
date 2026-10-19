@@ -1,0 +1,60 @@
+{
+  "animations": {
+    "idle": {
+      "frames": ["characters/player/player-idle-28x56.png"],
+      "durations_ms": [1200]
+    },
+    "walking": {
+      "sheet": "characters/player/animations/walking.png",
+      "frame_size": [28, 56],
+      "count": 4,
+      "durations_ms": [90, 90, 90, 90]
+    },
+    "sprinting": {
+      "frames": [
+        "characters/player/animations/sprinting/frame-0.png",
+        "characters/player/animations/sprinting/frame-1.png",
+        "characters/player/animations/sprinting/frame-2.png",
+        "characters/player/animations/sprinting/frame-3.png",
+        "characters/player/animations/sprinting/frame-4.png",
+        "characters/player/animations/sprinting/frame-5.png"
+      ],
+      "durations_ms": [71.4286, 71.4286, 71.4286, 71.4286, 71.4286, 71.4286],
+      "render_scale": 0.97
+    },
+    "jumping": {
+      "sheet": "characters/player/animations/jumping.png",
+      "frame_size": [28, 56],
+      "count": 1,
+      "durations_ms": [100]
+    },
+    "falling": {
+      "sheet": "characters/player/animations/falling.png",
+      "frame_size": [28, 56],
+      "count": 1,
+      "durations_ms": [120],
+      "render_scale": 1.08
+    },
+    "dashing": {
+      "sheet": "characters/player/animations/dashing.png",
+      "frame_size": [28, 56],
+      "count": 4,
+      "durations_ms": [80, 80, 80, 80],
+      "preserve_canvas": true,
+      "render_scale": 1.44
+    },
+    "heavy_landing": {
+      "sheet": "characters/player/animations/heavy_landing.png",
+      "frame_size": [28, 56],
+      "count": 6,
+      "durations_ms": [166.6666666667, 166.6666666667, 166.6666666667, 166.6666666667, 166.6666666667, 166.6666666667],
+      "preserve_canvas": true,
+      "render_scale": 1.44
+    },
+    "punch": {
+      "sheet": "characters/player/animations/punch.png",
+      "frame_size": [512, 1024],
+      "count": 3
+    }
+  }
+}

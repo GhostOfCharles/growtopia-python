@@ -1,0 +1,40 @@
+{
+  "Charles": {
+    "username": "Charles",
+    "inventory": [
+      {
+        "tile": null,
+        "count": 0
+      },
+      {
+        "tile": null,
+        "count": 0
+      },
+      {
+        "tile": null,
+        "count": 0
+      },
+      {
+        "tile": null,
+        "count": 0
+      },
+      {
+        "tile": null,
+        "count": 0
+      },
+      {
+        "tile": null,
+        "count": 0
+      },
+      {
+        "tile": null,
+        "count": 0
+      },
+      {
+        "tile": null,
+        "count": 0
+      }
+    ],
+    "selected_slot": 0
+  }
+}

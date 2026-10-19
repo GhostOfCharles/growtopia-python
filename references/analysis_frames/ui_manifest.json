@@ -1,0 +1,141 @@
+{
+  "method": "OpenCV CAP_PROP_POS_MSEC; validated against fresh seeks and byte-for-byte JPEG reencoding at quality94. ui_detail frames use quality95 so file sizes differ, not timestamps.",
+  "frames": [
+    {
+      "path": "ui_000.jpg",
+      "requested_seconds": 0,
+      "actual_source_pts_seconds": 0.0,
+      "zero_based_source_frame": 0,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_035.jpg",
+      "requested_seconds": 35,
+      "actual_source_pts_seconds": 35.0,
+      "zero_based_source_frame": 2100,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_038.jpg",
+      "requested_seconds": 38,
+      "actual_source_pts_seconds": 38.0,
+      "zero_based_source_frame": 2280,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_039.jpg",
+      "requested_seconds": 39,
+      "actual_source_pts_seconds": 39.0,
+      "zero_based_source_frame": 2340,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_040.jpg",
+      "requested_seconds": 40,
+      "actual_source_pts_seconds": 40.0,
+      "zero_based_source_frame": 2400,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_049.jpg",
+      "requested_seconds": 49,
+      "actual_source_pts_seconds": 49.0,
+      "zero_based_source_frame": 2940,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_050.jpg",
+      "requested_seconds": 50,
+      "actual_source_pts_seconds": 50.0,
+      "zero_based_source_frame": 3000,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_075.jpg",
+      "requested_seconds": 75,
+      "actual_source_pts_seconds": 75.0,
+      "zero_based_source_frame": 4500,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_080.jpg",
+      "requested_seconds": 80,
+      "actual_source_pts_seconds": 80.0,
+      "zero_based_source_frame": 4800,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_118.jpg",
+      "requested_seconds": 118,
+      "actual_source_pts_seconds": 118.0,
+      "zero_based_source_frame": 7080,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_119.jpg",
+      "requested_seconds": 119,
+      "actual_source_pts_seconds": 119.0,
+      "zero_based_source_frame": 7140,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_120.jpg",
+      "requested_seconds": 120,
+      "actual_source_pts_seconds": 120.0,
+      "zero_based_source_frame": 7200,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_125.jpg",
+      "requested_seconds": 125,
+      "actual_source_pts_seconds": 125.0,
+      "zero_based_source_frame": 7500,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_129.jpg",
+      "requested_seconds": 129,
+      "actual_source_pts_seconds": 129.0,
+      "zero_based_source_frame": 7740,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_130.jpg",
+      "requested_seconds": 130,
+      "actual_source_pts_seconds": 130.0,
+      "zero_based_source_frame": 7800,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_132.jpg",
+      "requested_seconds": 132,
+      "actual_source_pts_seconds": 132.0,
+      "zero_based_source_frame": 7920,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    },
+    {
+      "path": "ui_138.jpg",
+      "requested_seconds": 138,
+      "actual_source_pts_seconds": 138.0,
+      "zero_based_source_frame": 8280,
+      "validated_by_exact_reencode": true,
+      "jpeg_quality": 94
+    }
+  ]
+}

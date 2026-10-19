@@ -1,0 +1,67 @@
+{
+  "animations": {
+    "idle": {
+      "sheet": "characters/zombie/idle.png",
+      "frame_size": [
+        28,
+        56
+      ],
+      "count": 1,
+      "durations_ms": [
+        600
+      ]
+    },
+    "walking": {
+      "sheet": "characters/zombie/walking.png",
+      "frame_size": [
+        28,
+        56
+      ],
+      "count": 4,
+      "durations_ms": [
+        130,
+        130,
+        130,
+        130
+      ]
+    },
+    "jumping": {
+      "sheet": "characters/zombie/jumping.png",
+      "frame_size": [
+        28,
+        56
+      ],
+      "count": 1,
+      "durations_ms": [
+        100
+      ]
+    },
+    "falling": {
+      "sheet": "characters/zombie/falling.png",
+      "frame_size": [
+        28,
+        56
+      ],
+      "count": 1,
+      "durations_ms": [
+        120
+      ]
+    },
+    "attack": {
+      "sheet": "characters/zombie/attack.png",
+      "frame_size": [
+        28,
+        56
+      ],
+      "count": 6,
+      "durations_ms": [
+        100,
+        100,
+        90,
+        90,
+        110,
+        130
+      ]
+    }
+  }
+}

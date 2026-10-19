@@ -1,0 +1,20 @@
+{
+  "purpose": "Review of original procedural action feedback. All writes use temporary saves.",
+  "fixture": "Flat dirt ground, player at spawn [50,40], static camera. Effects RNG seed42. Break drop roll forced to no drop to isolate visible feedback.",
+  "animation_ms": 80,
+  "timing": "Each action screenshot is 80ms after the relevant accepted action, not a recording timestamp. Break follows a first hit separated by180ms; first-hit chips can still exist.",
+  "reference_windows": [
+    "00:23.800-00:24.750 A02",
+    "00:48.000-00:50.750 A03",
+    "00:51.750 A03",
+    "01:24.600-01:26.200 A04"
+  ],
+  "screenshots": [
+    "feedback_idle.png",
+    "feedback_hit.png",
+    "feedback_break.png",
+    "feedback_place.png",
+    "feedback_contact_sheet.png",
+    "feedback_detail_sheet.png"
+  ]
+}
